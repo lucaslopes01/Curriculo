@@ -1,0 +1,16 @@
+@import "./global.css";
+@import "./header.css";
+@import "./introducao.css";
+@import "./projeto.css";
+@import "./formacao.css";
+@import "./footer.css";
+
+
+#lucas{ 
+  color: #f7f7f7; ;
+background: linear-gradient(90deg, rgb(214, 214, 230) 0%, rgb(189, 189, 214) 35%, rgb(148, 159, 161) 100%);
+display: inline-block;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;
+}
+
